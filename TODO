@@ -1,0 +1,14 @@
+check Heisenberg energy <--- (test_min script)
+implement PEPS contraction <-- double layer
+
+--- plan out Ushnish stuff + Boxiao
+
+test gradient without SVD for ladder
+test gradient with SVD for ladder
+
+implement canonicalization
+implement MC (and initial guess)
+implement fermions
+
+2: -0.75
+4: -1.6160254038
